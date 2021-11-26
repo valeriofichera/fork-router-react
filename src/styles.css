@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  height: 100px;
+  background-color: pink;
+}
+
+main {
+  height: 350px;
+}
+
+footer {
+  height: 200px;
+  background-color: yellow;
+}
